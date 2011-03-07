@@ -1,6 +1,6 @@
 # Dust Template Engine for ExpressJS
 
-This express module allows you to use [Dust]:(http://akdubya.github.com/dustjs/) as your template engine.
+This express module allows you to use [Dust](http://akdubya.github.com/dustjs/) as your template engine.
 
 ## Install
 
