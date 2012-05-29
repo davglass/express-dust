@@ -1,12 +1,13 @@
 {
     "name": "express-dust",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "ExpressJS DustJS View Renderer",
     "author": "Dav Glass <davglass@gmail.com> @davglass",
 	"contributors":[
 	    "Ryan Grove <ryan@wonko.com> @yaypie",
         "Scott Sanders (http://stonecobra.com)",
-      "Federico Fissore <federico@fsfe.org>"
+        "Federico Fissore <federico@fsfe.org>",
+        "Nick Swider (http://nickswider.com)"
     ],
     "bugs": { "web" : "http://github.com/davglass/express-dust/issues" },
     "os": ["darwin", "linux"],
